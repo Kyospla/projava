@@ -6,5 +6,7 @@ public class Main {
         minnsan.printInfo();
         heika.printInfo();
         pohajime.printInfo();
+
+        System.out.println(Human.count+"人居ます");
             }
         }
