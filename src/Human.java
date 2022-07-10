@@ -2,7 +2,7 @@ public class Human {
     protected static String name;
     protected int age;
     protected String tell;
-    Human(String race, int age, String habit){
+    Human(String name, int age, String habit){
         Human.name=name;
         this.age=age;
         this.tell=habit;
